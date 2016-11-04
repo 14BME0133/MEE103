@@ -1,2 +1,2 @@
-# MEE102
-MEE102 - Workshop Practice - Intermediate
+# MEE103
+Workshop Practice II - ADVANCED
